@@ -14,7 +14,7 @@ Rswag extends rspec-rails "request specs" with a Swagger-based DSL for describin
 Api Rswag creates [Swagger](http://swagger.io) tooling for Rails API's. Generate beautiful API documentation, including a UI to explore and test operations, directly from your rspec integration tests.
 
 
-And that's not all ...
+And that's not all ...    
 
 Once you have an API that can describe itself in Swagger, you've opened the treasure chest of Swagger-based tools including a client generator that can be targeted to a wide range of popular platforms. See [swagger-codegen](https://github.com/swagger-api/swagger-codegen) for more details.
 
